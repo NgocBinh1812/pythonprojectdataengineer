@@ -1,0 +1,8 @@
+1663642056.0994267ETL Job Started
+1663642291.8897743 ETL Job Started
+1663642291.8898342 Extract phase Started
+1663642291.8947806 Extract phase Ended
+1663642291.8948588 Transform phase Started
+1663642291.897651 Transform phase Ended
+1663642291.8977227 Load phase Started
+1663642291.8991973 Load phase Ended
